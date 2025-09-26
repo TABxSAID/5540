@@ -1,4 +1,3 @@
-[findings.md](https://github.com/user-attachments/files/22554751/findings.md)
 # A - Gender Differences in Math and Reading Scores
 
 Boxplots show that males slightly outperform females in math (median 69 vs. 64), while females lead in reading (73 vs. 65). Score spread is similar in math, but females have more consistent reading scores. Some female math outliers suggest room for support. These trends hint at subject-based strengths, possibly influenced by interests or teaching styles.
