@@ -35,4 +35,4 @@ df = df.drop(['Height', 'Weight', 'Frailty', 'AgeGroup'], axis=1)
 df.to_csv('../data_clean/clean_data.csv', index=False)
 
 # Finishing self note
-print(f"Cleaned data saved!")
+print("Cleaned data saved!")
