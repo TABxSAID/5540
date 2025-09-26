@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import linregress
 import numpy as np
 import matplotlib.colors as mcolors
+import seaborn as sns
 
 # Load cleaned data
 data_df = pd.read_csv('../data_clean/clean_data.csv')
